@@ -1,0 +1,607 @@
+subject,regressor,region,mean_beta
+RDC102,Probability (risk/certain trials),ce,0.04066639443600792
+RDC102,Probability (risk/certain trials),bst,-0.029305158986738272
+RDC104,Probability (risk/certain trials),ce,0.3326913249926457
+RDC104,Probability (risk/certain trials),bst,0.24003657429585581
+RDC105,Probability (risk/certain trials),ce,-0.06951636426971138
+RDC105,Probability (risk/certain trials),bst,-0.26790168269464365
+RDC106,Probability (risk/certain trials),ce,-0.0514671487587839
+RDC106,Probability (risk/certain trials),bst,-0.10873365474183366
+RDC107,Probability (risk/certain trials),ce,0.1346412873231042
+RDC107,Probability (risk/certain trials),bst,0.18904271258277983
+RDC109,Probability (risk/certain trials),ce,0.03315047049578834
+RDC109,Probability (risk/certain trials),bst,0.28865248937641785
+RDC110,Probability (risk/certain trials),ce,0.1818466304245476
+RDC110,Probability (risk/certain trials),bst,0.030946804384743388
+RDC111,Probability (risk/certain trials),ce,0.14675081863453257
+RDC111,Probability (risk/certain trials),bst,0.22017383494389578
+RDC113,Probability (risk/certain trials),ce,-0.1514309568553195
+RDC113,Probability (risk/certain trials),bst,-0.09718735656970119
+RDC116,Probability (risk/certain trials),ce,0.08452213200636069
+RDC116,Probability (risk/certain trials),bst,0.015425855424988357
+RDC117,Probability (risk/certain trials),ce,0.1115218223532028
+RDC117,Probability (risk/certain trials),bst,-0.022571637119779553
+RDC120,Probability (risk/certain trials),ce,0.08320873545929709
+RDC120,Probability (risk/certain trials),bst,-0.07975709699121886
+RDC125,Probability (risk/certain trials),ce,-0.23249555924770315
+RDC125,Probability (risk/certain trials),bst,-0.06620790463399252
+RDC126,Probability (risk/certain trials),ce,-0.1305622980130188
+RDC126,Probability (risk/certain trials),bst,-0.040621542285689864
+RDC127,Probability (risk/certain trials),ce,-0.03819672855442563
+RDC127,Probability (risk/certain trials),bst,0.00999454754492172
+RDC128,Probability (risk/certain trials),ce,-0.07028324943483898
+RDC128,Probability (risk/certain trials),bst,-0.06556879630868183
+RDC129,Probability (risk/certain trials),ce,0.26407560104687555
+RDC129,Probability (risk/certain trials),bst,0.3272851762041135
+RDC130,Probability (risk/certain trials),ce,-0.14421748396057246
+RDC130,Probability (risk/certain trials),bst,0.18428378916460394
+RDC131,Probability (risk/certain trials),ce,0.08634252221370028
+RDC131,Probability (risk/certain trials),bst,0.15858647120337901
+RDC132,Probability (risk/certain trials),ce,-0.0383625040015563
+RDC132,Probability (risk/certain trials),bst,-0.014147627170727187
+RDC133,Probability (risk/certain trials),ce,-0.023225468865780963
+RDC133,Probability (risk/certain trials),bst,-0.0823248423057997
+RDC134,Probability (risk/certain trials),ce,0.02586587760228895
+RDC134,Probability (risk/certain trials),bst,0.5208033243105396
+RDC136,Probability (risk/certain trials),ce,0.04725865535357449
+RDC136,Probability (risk/certain trials),bst,0.06690424917105965
+RDC137,Probability (risk/certain trials),ce,0.3056299611148401
+RDC137,Probability (risk/certain trials),bst,0.007373615684989805
+RDC138,Probability (risk/certain trials),ce,0.464555204707448
+RDC138,Probability (risk/certain trials),bst,0.09354938037609056
+RDC139,Probability (risk/certain trials),ce,-0.009473945013774333
+RDC139,Probability (risk/certain trials),bst,0.11120471662705433
+RDC141,Probability (risk/certain trials),ce,0.341844043888547
+RDC141,Probability (risk/certain trials),bst,0.02545350164966949
+RDC143,Probability (risk/certain trials),ce,0.1159269984140001
+RDC143,Probability (risk/certain trials),bst,0.3138692032102316
+RDC144,Probability (risk/certain trials),ce,0.40806606104472537
+RDC144,Probability (risk/certain trials),bst,0.18193400211480082
+RDC145,Probability (risk/certain trials),ce,-0.15557939719498046
+RDC145,Probability (risk/certain trials),bst,0.1781118015639592
+RDC146,Probability (risk/certain trials),ce,0.32771695457702316
+RDC146,Probability (risk/certain trials),bst,0.19931332198781182
+RDC147,Probability (risk/certain trials),ce,0.22483170739893438
+RDC147,Probability (risk/certain trials),bst,-0.054333295090499355
+RDC152,Probability (risk/certain trials),ce,0.15428430841957108
+RDC152,Probability (risk/certain trials),bst,-0.2548200220049495
+RDC153,Probability (risk/certain trials),ce,0.13550366916168236
+RDC153,Probability (risk/certain trials),bst,-0.09495570515890257
+RDC154,Probability (risk/certain trials),ce,0.523033904147823
+RDC154,Probability (risk/certain trials),bst,0.1247252485689077
+RDC156,Probability (risk/certain trials),ce,-0.05703011316498941
+RDC156,Probability (risk/certain trials),bst,-0.08013074609398814
+RDC157,Probability (risk/certain trials),ce,-0.03875497127920097
+RDC157,Probability (risk/certain trials),bst,0.3242793367793249
+RDC159,Probability (risk/certain trials),ce,0.09955968220636012
+RDC159,Probability (risk/certain trials),bst,0.4193435303073902
+RDC161,Probability (risk/certain trials),ce,0.3074179522937602
+RDC161,Probability (risk/certain trials),bst,0.07170046307291181
+RDC164,Probability (risk/certain trials),ce,0.14824030263707183
+RDC164,Probability (risk/certain trials),bst,0.1808479120008477
+RDC165,Probability (risk/certain trials),ce,0.31227901415450726
+RDC165,Probability (risk/certain trials),bst,0.1666123638729827
+RDC167,Probability (risk/certain trials),ce,0.08477914714492489
+RDC167,Probability (risk/certain trials),bst,0.17530464509415153
+RDC171,Probability (risk/certain trials),ce,0.43515573920320716
+RDC171,Probability (risk/certain trials),bst,0.3806960750431257
+RDC172,Probability (risk/certain trials),ce,0.39891012879231996
+RDC172,Probability (risk/certain trials),bst,0.47091305331558964
+RDC174,Probability (risk/certain trials),ce,0.23285418922795317
+RDC174,Probability (risk/certain trials),bst,0.34754350708083875
+RDC175,Probability (risk/certain trials),ce,0.11743183261056106
+RDC175,Probability (risk/certain trials),bst,-0.1620496207679806
+RDC176,Probability (risk/certain trials),ce,-0.02701182729141526
+RDC176,Probability (risk/certain trials),bst,0.13274692756077586
+RDC177,Probability (risk/certain trials),ce,-0.10920980058789898
+RDC177,Probability (risk/certain trials),bst,0.3664504028450179
+RDC178,Probability (risk/certain trials),ce,0.2184768056191593
+RDC178,Probability (risk/certain trials),bst,-0.1953330750825818
+RDC180,Probability (risk/certain trials),ce,0.036826939132000434
+RDC180,Probability (risk/certain trials),bst,-0.1928552931468919
+RDC183,Probability (risk/certain trials),ce,0.4405620331332697
+RDC183,Probability (risk/certain trials),bst,0.24297479488021248
+RDC184,Probability (risk/certain trials),ce,0.14203500794945642
+RDC184,Probability (risk/certain trials),bst,0.2058394766607522
+RDC186,Probability (risk/certain trials),ce,0.26100321081954414
+RDC186,Probability (risk/certain trials),bst,0.1556689830611618
+RDC189,Probability (risk/certain trials),ce,0.1684629803986685
+RDC189,Probability (risk/certain trials),bst,-0.17566132782863952
+RDC190,Probability (risk/certain trials),ce,-0.04465459963809187
+RDC190,Probability (risk/certain trials),bst,0.466861793029369
+RDC192,Probability (risk/certain trials),ce,0.294979463860904
+RDC192,Probability (risk/certain trials),bst,0.23953665199034835
+RDC193,Probability (risk/certain trials),ce,0.2584965125449927
+RDC193,Probability (risk/certain trials),bst,0.06265846885916118
+RDC195,Probability (risk/certain trials),ce,-0.06857521582227041
+RDC195,Probability (risk/certain trials),bst,0.21292023791986958
+RDC196,Probability (risk/certain trials),ce,0.08261899663473693
+RDC196,Probability (risk/certain trials),bst,0.19090743164739374
+RDC198,Probability (risk/certain trials),ce,0.18078955682725403
+RDC198,Probability (risk/certain trials),bst,0.08377346235152976
+RDC200,Probability (risk/certain trials),ce,-0.012427464109738426
+RDC200,Probability (risk/certain trials),bst,0.3186044716858108
+RDC202,Probability (risk/certain trials),ce,0.3607940000647983
+RDC202,Probability (risk/certain trials),bst,-0.14145933076025038
+RDC203,Probability (risk/certain trials),ce,0.19658920851460496
+RDC203,Probability (risk/certain trials),bst,0.05771718310434476
+RDC204,Probability (risk/certain trials),ce,-0.04191751216979304
+RDC204,Probability (risk/certain trials),bst,0.14410958809332694
+RDC207,Probability (risk/certain trials),ce,0.3209479191402631
+RDC207,Probability (risk/certain trials),bst,0.20068673177126298
+RDC208,Probability (risk/certain trials),ce,0.4853814991590431
+RDC208,Probability (risk/certain trials),bst,0.25098023908884476
+RDC209,Probability (risk/certain trials),ce,0.2666065285485205
+RDC209,Probability (risk/certain trials),bst,0.05759299595987096
+RDC210,Probability (risk/certain trials),ce,0.08667173608016446
+RDC210,Probability (risk/certain trials),bst,0.38675601036363655
+RDC211,Probability (risk/certain trials),ce,0.18853450018517928
+RDC211,Probability (risk/certain trials),bst,0.08687459087927402
+RDC212,Probability (risk/certain trials),ce,0.5427566542712267
+RDC212,Probability (risk/certain trials),bst,0.2311186920868976
+RDC213,Probability (risk/certain trials),ce,0.29322574078908287
+RDC213,Probability (risk/certain trials),bst,0.3828696212326681
+RDC214,Probability (risk/certain trials),ce,0.46767811196828085
+RDC214,Probability (risk/certain trials),bst,0.08351102384211308
+RDC216,Probability (risk/certain trials),ce,0.12357205995544222
+RDC216,Probability (risk/certain trials),bst,0.5094419616268386
+RDC217,Probability (risk/certain trials),ce,-0.026977951811787106
+RDC217,Probability (risk/certain trials),bst,-0.04926815032020854
+RDC220,Probability (risk/certain trials),ce,-0.022372362858743687
+RDC220,Probability (risk/certain trials),bst,0.30802810003372355
+RDC221,Probability (risk/certain trials),ce,-0.2148812538664211
+RDC221,Probability (risk/certain trials),bst,0.31133767065414103
+RDC222,Probability (risk/certain trials),ce,-0.0024248373642099703
+RDC222,Probability (risk/certain trials),bst,0.572556824054427
+RDC225,Probability (risk/certain trials),ce,0.170529610169128
+RDC225,Probability (risk/certain trials),bst,0.0032357399267922693
+RDC226,Probability (risk/certain trials),ce,0.3785224336478892
+RDC226,Probability (risk/certain trials),bst,-0.11382033830984555
+RDC227,Probability (risk/certain trials),ce,0.0790161674966742
+RDC227,Probability (risk/certain trials),bst,0.27078859473628364
+RDC228,Probability (risk/certain trials),ce,0.26151967145845856
+RDC228,Probability (risk/certain trials),bst,0.2969925209541428
+RDC229,Probability (risk/certain trials),ce,-0.025834369189687026
+RDC229,Probability (risk/certain trials),bst,-0.4316382525284645
+RDC230,Probability (risk/certain trials),ce,-0.10077081867850564
+RDC230,Probability (risk/certain trials),bst,-0.14575243421758494
+RDC231,Probability (risk/certain trials),ce,-0.023870674620047983
+RDC231,Probability (risk/certain trials),bst,-0.1769742085882093
+RDC232,Probability (risk/certain trials),ce,0.4011582054570323
+RDC232,Probability (risk/certain trials),bst,0.28092404585389325
+RDC233,Probability (risk/certain trials),ce,0.03360848180745269
+RDC233,Probability (risk/certain trials),bst,0.1262465015053753
+RDC234,Probability (risk/certain trials),ce,0.5127525986410761
+RDC234,Probability (risk/certain trials),bst,0.28816667237639787
+RDC235,Probability (risk/certain trials),ce,0.1591734618361694
+RDC235,Probability (risk/certain trials),bst,0.12402522134044501
+RDC236,Probability (risk/certain trials),ce,0.11684769992706166
+RDC236,Probability (risk/certain trials),bst,0.1564890162262975
+RDC237,Probability (risk/certain trials),ce,0.07759939105696549
+RDC237,Probability (risk/certain trials),bst,0.06784178058133383
+RDC238,Probability (risk/certain trials),ce,0.015498917946574414
+RDC238,Probability (risk/certain trials),bst,0.5868247805583685
+RDC243,Probability (risk/certain trials),ce,0.24659214651881728
+RDC243,Probability (risk/certain trials),bst,0.16407143927209808
+RDC244,Probability (risk/certain trials),ce,-0.07113562096435169
+RDC244,Probability (risk/certain trials),bst,-0.017432662533054196
+RDC246,Probability (risk/certain trials),ce,0.37542464547631343
+RDC246,Probability (risk/certain trials),bst,0.09351904152722396
+RDC247,Probability (risk/certain trials),ce,0.4248952847869841
+RDC247,Probability (risk/certain trials),bst,0.20257274783060222
+RDC248,Probability (risk/certain trials),ce,0.06487796017947717
+RDC248,Probability (risk/certain trials),bst,-0.13106705126569604
+RDC249,Probability (risk/certain trials),ce,0.2701095559949837
+RDC249,Probability (risk/certain trials),bst,0.27360870379465446
+RDC250,Probability (risk/certain trials),ce,0.12165763683062461
+RDC250,Probability (risk/certain trials),bst,0.10458819239472587
+RDC259,Probability (risk/certain trials),ce,-0.06760293819534538
+RDC259,Probability (risk/certain trials),bst,0.0054991991505896716
+RDC261,Probability (risk/certain trials),ce,-0.16735571122415166
+RDC261,Probability (risk/certain trials),bst,0.05209090086909002
+RDC263,Probability (risk/certain trials),ce,0.27031987240336064
+RDC263,Probability (risk/certain trials),bst,0.23027550095393837
+RDC102,"""Risk"" (Var[p-threat])",ce,-0.1288617176743851
+RDC102,"""Risk"" (Var[p-threat])",bst,-0.042129983593750496
+RDC104,"""Risk"" (Var[p-threat])",ce,-0.09790533848686689
+RDC104,"""Risk"" (Var[p-threat])",bst,-0.027912478328056527
+RDC105,"""Risk"" (Var[p-threat])",ce,0.11928918293851647
+RDC105,"""Risk"" (Var[p-threat])",bst,0.23888733284861394
+RDC106,"""Risk"" (Var[p-threat])",ce,-0.09264807151049981
+RDC106,"""Risk"" (Var[p-threat])",bst,-0.16841624032691152
+RDC107,"""Risk"" (Var[p-threat])",ce,0.04931894789728051
+RDC107,"""Risk"" (Var[p-threat])",bst,0.32874472040273384
+RDC109,"""Risk"" (Var[p-threat])",ce,-0.1119041727301162
+RDC109,"""Risk"" (Var[p-threat])",bst,-0.07975222201934538
+RDC110,"""Risk"" (Var[p-threat])",ce,-0.05478449666409272
+RDC110,"""Risk"" (Var[p-threat])",bst,-0.06243804877838303
+RDC111,"""Risk"" (Var[p-threat])",ce,0.10521318881772472
+RDC111,"""Risk"" (Var[p-threat])",bst,0.1785763938221471
+RDC113,"""Risk"" (Var[p-threat])",ce,-0.1971704575561742
+RDC113,"""Risk"" (Var[p-threat])",bst,-0.12818265782908356
+RDC116,"""Risk"" (Var[p-threat])",ce,-0.02001896829602247
+RDC116,"""Risk"" (Var[p-threat])",bst,-0.05432849697079595
+RDC117,"""Risk"" (Var[p-threat])",ce,-0.18978028630886862
+RDC117,"""Risk"" (Var[p-threat])",bst,0.07997784755777576
+RDC120,"""Risk"" (Var[p-threat])",ce,0.00486954015769039
+RDC120,"""Risk"" (Var[p-threat])",bst,0.050563130942840546
+RDC125,"""Risk"" (Var[p-threat])",ce,-0.16743624946189817
+RDC125,"""Risk"" (Var[p-threat])",bst,-0.06071403497735579
+RDC126,"""Risk"" (Var[p-threat])",ce,0.0010391519243873866
+RDC126,"""Risk"" (Var[p-threat])",bst,0.19910960015726795
+RDC127,"""Risk"" (Var[p-threat])",ce,0.13258713827773624
+RDC127,"""Risk"" (Var[p-threat])",bst,0.2522576510760617
+RDC128,"""Risk"" (Var[p-threat])",ce,-0.037369571404015325
+RDC128,"""Risk"" (Var[p-threat])",bst,-0.18624681747597235
+RDC129,"""Risk"" (Var[p-threat])",ce,-0.1527209843340177
+RDC129,"""Risk"" (Var[p-threat])",bst,-0.36824839102898627
+RDC130,"""Risk"" (Var[p-threat])",ce,0.1436641979479844
+RDC130,"""Risk"" (Var[p-threat])",bst,0.0792065671203268
+RDC131,"""Risk"" (Var[p-threat])",ce,0.0384026077292337
+RDC131,"""Risk"" (Var[p-threat])",bst,0.44098292262305944
+RDC132,"""Risk"" (Var[p-threat])",ce,-0.07373555671290996
+RDC132,"""Risk"" (Var[p-threat])",bst,0.06394711743001524
+RDC133,"""Risk"" (Var[p-threat])",ce,-0.021800654730786552
+RDC133,"""Risk"" (Var[p-threat])",bst,-0.04211077220662877
+RDC134,"""Risk"" (Var[p-threat])",ce,-0.10475510188768504
+RDC134,"""Risk"" (Var[p-threat])",bst,-0.13320756794912436
+RDC136,"""Risk"" (Var[p-threat])",ce,-0.11830559948644923
+RDC136,"""Risk"" (Var[p-threat])",bst,-0.07996537917479671
+RDC137,"""Risk"" (Var[p-threat])",ce,-0.18960372266547285
+RDC137,"""Risk"" (Var[p-threat])",bst,-0.09502573938807841
+RDC138,"""Risk"" (Var[p-threat])",ce,-0.4987002474069405
+RDC138,"""Risk"" (Var[p-threat])",bst,0.1083596118960491
+RDC139,"""Risk"" (Var[p-threat])",ce,-0.005691302114717274
+RDC139,"""Risk"" (Var[p-threat])",bst,0.06020488346489088
+RDC141,"""Risk"" (Var[p-threat])",ce,-0.12213342761183439
+RDC141,"""Risk"" (Var[p-threat])",bst,0.005599893019324666
+RDC143,"""Risk"" (Var[p-threat])",ce,-0.3354161861033698
+RDC143,"""Risk"" (Var[p-threat])",bst,0.08107994571745387
+RDC144,"""Risk"" (Var[p-threat])",ce,0.12586047143966983
+RDC144,"""Risk"" (Var[p-threat])",bst,0.07715544639153794
+RDC145,"""Risk"" (Var[p-threat])",ce,-0.2151344993997198
+RDC145,"""Risk"" (Var[p-threat])",bst,-0.2624530732321006
+RDC146,"""Risk"" (Var[p-threat])",ce,-0.10504229557165232
+RDC146,"""Risk"" (Var[p-threat])",bst,-0.030726678668073704
+RDC147,"""Risk"" (Var[p-threat])",ce,0.11522238728483739
+RDC147,"""Risk"" (Var[p-threat])",bst,0.061124231061039806
+RDC152,"""Risk"" (Var[p-threat])",ce,-0.15342898992876622
+RDC152,"""Risk"" (Var[p-threat])",bst,-0.5137682734426178
+RDC153,"""Risk"" (Var[p-threat])",ce,0.10672616215816792
+RDC153,"""Risk"" (Var[p-threat])",bst,0.32774190470917586
+RDC154,"""Risk"" (Var[p-threat])",ce,-0.14336286514749488
+RDC154,"""Risk"" (Var[p-threat])",bst,-0.32623079781493647
+RDC156,"""Risk"" (Var[p-threat])",ce,-0.15834763349059594
+RDC156,"""Risk"" (Var[p-threat])",bst,0.13152820209344987
+RDC157,"""Risk"" (Var[p-threat])",ce,-0.06122774621777952
+RDC157,"""Risk"" (Var[p-threat])",bst,-0.07977258742388499
+RDC159,"""Risk"" (Var[p-threat])",ce,-0.09202578492822976
+RDC159,"""Risk"" (Var[p-threat])",bst,0.060274023820490304
+RDC161,"""Risk"" (Var[p-threat])",ce,0.06648875450808073
+RDC161,"""Risk"" (Var[p-threat])",bst,0.3050616469722988
+RDC164,"""Risk"" (Var[p-threat])",ce,0.22180751641909083
+RDC164,"""Risk"" (Var[p-threat])",bst,-0.14289072280873116
+RDC165,"""Risk"" (Var[p-threat])",ce,-0.062178184935750044
+RDC165,"""Risk"" (Var[p-threat])",bst,-0.19312226353981246
+RDC167,"""Risk"" (Var[p-threat])",ce,-0.10468009332514785
+RDC167,"""Risk"" (Var[p-threat])",bst,-0.04619904851132042
+RDC171,"""Risk"" (Var[p-threat])",ce,-0.0002722508838323023
+RDC171,"""Risk"" (Var[p-threat])",bst,0.3322524419687864
+RDC172,"""Risk"" (Var[p-threat])",ce,-0.14523303278972977
+RDC172,"""Risk"" (Var[p-threat])",bst,-0.06450034060431024
+RDC174,"""Risk"" (Var[p-threat])",ce,-0.03856272662409968
+RDC174,"""Risk"" (Var[p-threat])",bst,0.09741931720231238
+RDC175,"""Risk"" (Var[p-threat])",ce,0.14855864482912332
+RDC175,"""Risk"" (Var[p-threat])",bst,-0.277354982456995
+RDC176,"""Risk"" (Var[p-threat])",ce,-0.13428557894325246
+RDC176,"""Risk"" (Var[p-threat])",bst,0.1044148879646231
+RDC177,"""Risk"" (Var[p-threat])",ce,-0.06326953491135108
+RDC177,"""Risk"" (Var[p-threat])",bst,0.1328511715788637
+RDC178,"""Risk"" (Var[p-threat])",ce,0.07654117232087203
+RDC178,"""Risk"" (Var[p-threat])",bst,0.19782184079428586
+RDC180,"""Risk"" (Var[p-threat])",ce,-0.11876340208679728
+RDC180,"""Risk"" (Var[p-threat])",bst,0.01735861662685424
+RDC183,"""Risk"" (Var[p-threat])",ce,0.02474180888220384
+RDC183,"""Risk"" (Var[p-threat])",bst,-0.1846903140092624
+RDC184,"""Risk"" (Var[p-threat])",ce,0.028488546310909486
+RDC184,"""Risk"" (Var[p-threat])",bst,0.23644622169737348
+RDC186,"""Risk"" (Var[p-threat])",ce,-0.05517623150920908
+RDC186,"""Risk"" (Var[p-threat])",bst,-0.13764078615077446
+RDC189,"""Risk"" (Var[p-threat])",ce,-0.07400460821988798
+RDC189,"""Risk"" (Var[p-threat])",bst,0.107950700670714
+RDC190,"""Risk"" (Var[p-threat])",ce,0.21341301136571147
+RDC190,"""Risk"" (Var[p-threat])",bst,0.41994550912989204
+RDC192,"""Risk"" (Var[p-threat])",ce,0.04428508206436942
+RDC192,"""Risk"" (Var[p-threat])",bst,-0.055863183980581654
+RDC193,"""Risk"" (Var[p-threat])",ce,-0.020902299002985042
+RDC193,"""Risk"" (Var[p-threat])",bst,0.07697656298271711
+RDC195,"""Risk"" (Var[p-threat])",ce,0.09886482247787158
+RDC195,"""Risk"" (Var[p-threat])",bst,-0.07618667565850344
+RDC196,"""Risk"" (Var[p-threat])",ce,0.0018170392194256353
+RDC196,"""Risk"" (Var[p-threat])",bst,-0.07149240230825418
+RDC198,"""Risk"" (Var[p-threat])",ce,0.022817350967965416
+RDC198,"""Risk"" (Var[p-threat])",bst,0.15188200198164722
+RDC200,"""Risk"" (Var[p-threat])",ce,0.008107208637096663
+RDC200,"""Risk"" (Var[p-threat])",bst,-0.16660827624932747
+RDC202,"""Risk"" (Var[p-threat])",ce,0.20589496782448874
+RDC202,"""Risk"" (Var[p-threat])",bst,0.3320140150906492
+RDC203,"""Risk"" (Var[p-threat])",ce,-4.107318295203184e-05
+RDC203,"""Risk"" (Var[p-threat])",bst,-0.08261050895573453
+RDC204,"""Risk"" (Var[p-threat])",ce,0.1062070584247002
+RDC204,"""Risk"" (Var[p-threat])",bst,0.06690943919780638
+RDC207,"""Risk"" (Var[p-threat])",ce,-0.061527445119688585
+RDC207,"""Risk"" (Var[p-threat])",bst,-0.004620729988839195
+RDC208,"""Risk"" (Var[p-threat])",ce,-0.25014430758502665
+RDC208,"""Risk"" (Var[p-threat])",bst,0.1549512342621431
+RDC209,"""Risk"" (Var[p-threat])",ce,0.053769589174310274
+RDC209,"""Risk"" (Var[p-threat])",bst,-0.14095328716365277
+RDC210,"""Risk"" (Var[p-threat])",ce,-0.00833674603771994
+RDC210,"""Risk"" (Var[p-threat])",bst,0.10511066261320111
+RDC211,"""Risk"" (Var[p-threat])",ce,-0.0920374751975452
+RDC211,"""Risk"" (Var[p-threat])",bst,-0.05591453888607176
+RDC212,"""Risk"" (Var[p-threat])",ce,-0.09992098374313592
+RDC212,"""Risk"" (Var[p-threat])",bst,0.05813374883773775
+RDC213,"""Risk"" (Var[p-threat])",ce,0.2161610279758076
+RDC213,"""Risk"" (Var[p-threat])",bst,-0.033650890922564326
+RDC214,"""Risk"" (Var[p-threat])",ce,0.15573259622473443
+RDC214,"""Risk"" (Var[p-threat])",bst,0.06945635244531435
+RDC216,"""Risk"" (Var[p-threat])",ce,0.03158210058619384
+RDC216,"""Risk"" (Var[p-threat])",bst,0.04021050062944887
+RDC217,"""Risk"" (Var[p-threat])",ce,0.014428480853314905
+RDC217,"""Risk"" (Var[p-threat])",bst,-0.00898040460532982
+RDC220,"""Risk"" (Var[p-threat])",ce,-0.05371400536681201
+RDC220,"""Risk"" (Var[p-threat])",bst,-0.1966349005066126
+RDC221,"""Risk"" (Var[p-threat])",ce,0.08433004430420186
+RDC221,"""Risk"" (Var[p-threat])",bst,0.15321917676984206
+RDC222,"""Risk"" (Var[p-threat])",ce,0.08613550251401718
+RDC222,"""Risk"" (Var[p-threat])",bst,0.6740382750983421
+RDC225,"""Risk"" (Var[p-threat])",ce,-0.31260109360751476
+RDC225,"""Risk"" (Var[p-threat])",bst,0.08888140114666987
+RDC226,"""Risk"" (Var[p-threat])",ce,-0.06387678502609181
+RDC226,"""Risk"" (Var[p-threat])",bst,0.23045331421647183
+RDC227,"""Risk"" (Var[p-threat])",ce,0.09552962255593768
+RDC227,"""Risk"" (Var[p-threat])",bst,0.1966398464907708
+RDC228,"""Risk"" (Var[p-threat])",ce,0.15526514840699995
+RDC228,"""Risk"" (Var[p-threat])",bst,0.07456858094952294
+RDC229,"""Risk"" (Var[p-threat])",ce,-0.035775229849218104
+RDC229,"""Risk"" (Var[p-threat])",bst,0.17817273565915312
+RDC230,"""Risk"" (Var[p-threat])",ce,-0.05413179492554607
+RDC230,"""Risk"" (Var[p-threat])",bst,-0.0036154128324841126
+RDC231,"""Risk"" (Var[p-threat])",ce,0.028464561400440257
+RDC231,"""Risk"" (Var[p-threat])",bst,0.24219985164618316
+RDC232,"""Risk"" (Var[p-threat])",ce,0.21763256671776143
+RDC232,"""Risk"" (Var[p-threat])",bst,0.23124255300301524
+RDC233,"""Risk"" (Var[p-threat])",ce,-0.03882347097733011
+RDC233,"""Risk"" (Var[p-threat])",bst,-0.15828536165929416
+RDC234,"""Risk"" (Var[p-threat])",ce,0.12718317322623218
+RDC234,"""Risk"" (Var[p-threat])",bst,-0.17807207753228527
+RDC235,"""Risk"" (Var[p-threat])",ce,0.04913860025893784
+RDC235,"""Risk"" (Var[p-threat])",bst,-0.06550581031677752
+RDC236,"""Risk"" (Var[p-threat])",ce,0.020614085904970814
+RDC236,"""Risk"" (Var[p-threat])",bst,-0.10124383790833362
+RDC237,"""Risk"" (Var[p-threat])",ce,-0.13130166450442643
+RDC237,"""Risk"" (Var[p-threat])",bst,0.2559770379767779
+RDC238,"""Risk"" (Var[p-threat])",ce,-0.026746641095913362
+RDC238,"""Risk"" (Var[p-threat])",bst,0.3017612717125491
+RDC243,"""Risk"" (Var[p-threat])",ce,0.04452861084694779
+RDC243,"""Risk"" (Var[p-threat])",bst,0.23209588762003716
+RDC244,"""Risk"" (Var[p-threat])",ce,0.02060375155316965
+RDC244,"""Risk"" (Var[p-threat])",bst,0.12525593754102535
+RDC246,"""Risk"" (Var[p-threat])",ce,0.01780868233696295
+RDC246,"""Risk"" (Var[p-threat])",bst,-0.14776831769206453
+RDC247,"""Risk"" (Var[p-threat])",ce,-0.0402574444374814
+RDC247,"""Risk"" (Var[p-threat])",bst,-0.20990322103763168
+RDC248,"""Risk"" (Var[p-threat])",ce,0.07856105028530488
+RDC248,"""Risk"" (Var[p-threat])",bst,0.348664344030197
+RDC249,"""Risk"" (Var[p-threat])",ce,0.026948947796192637
+RDC249,"""Risk"" (Var[p-threat])",bst,-0.1616165622833591
+RDC250,"""Risk"" (Var[p-threat])",ce,-0.1702123374981571
+RDC250,"""Risk"" (Var[p-threat])",bst,0.05731064035449718
+RDC259,"""Risk"" (Var[p-threat])",ce,-0.1455144746632864
+RDC259,"""Risk"" (Var[p-threat])",bst,-0.09404285886989533
+RDC261,"""Risk"" (Var[p-threat])",ce,0.1301336761330114
+RDC261,"""Risk"" (Var[p-threat])",bst,-0.1363069195603999
+RDC263,"""Risk"" (Var[p-threat])",ce,-0.05445867039848406
+RDC263,"""Risk"" (Var[p-threat])",bst,-0.03830207096164435
+RDC102,Ambiguity (unknown probability),ce,0.4254308223998956
+RDC102,Ambiguity (unknown probability),bst,0.38943404987270264
+RDC104,Ambiguity (unknown probability),ce,-0.047550105704959086
+RDC104,Ambiguity (unknown probability),bst,-0.5050192622695585
+RDC105,Ambiguity (unknown probability),ce,0.3280427782946185
+RDC105,Ambiguity (unknown probability),bst,0.24570237376968893
+RDC106,Ambiguity (unknown probability),ce,0.016306993568047476
+RDC106,Ambiguity (unknown probability),bst,0.33305418724654073
+RDC107,Ambiguity (unknown probability),ce,0.013216408315388497
+RDC107,Ambiguity (unknown probability),bst,-0.0347036134244905
+RDC109,Ambiguity (unknown probability),ce,0.5333247329227213
+RDC109,Ambiguity (unknown probability),bst,0.3467643058135949
+RDC110,Ambiguity (unknown probability),ce,-0.29814401578319616
+RDC110,Ambiguity (unknown probability),bst,0.012502468392331564
+RDC111,Ambiguity (unknown probability),ce,-0.09348700932464953
+RDC111,Ambiguity (unknown probability),bst,0.07116668441492159
+RDC113,Ambiguity (unknown probability),ce,0.13834588794674585
+RDC113,Ambiguity (unknown probability),bst,0.09614444514654885
+RDC116,Ambiguity (unknown probability),ce,-0.24453844815420397
+RDC116,Ambiguity (unknown probability),bst,-0.2666901480372335
+RDC117,Ambiguity (unknown probability),ce,-0.062284460409909606
+RDC117,Ambiguity (unknown probability),bst,0.015850264321395118
+RDC120,Ambiguity (unknown probability),ce,-0.40336643300157854
+RDC120,Ambiguity (unknown probability),bst,-0.014158206551144562
+RDC125,Ambiguity (unknown probability),ce,-0.007521720975758001
+RDC125,Ambiguity (unknown probability),bst,0.009371090991071196
+RDC126,Ambiguity (unknown probability),ce,0.030500272892749748
+RDC126,Ambiguity (unknown probability),bst,0.21006727134063738
+RDC127,Ambiguity (unknown probability),ce,-0.14668480345688426
+RDC127,Ambiguity (unknown probability),bst,-0.3592254437607523
+RDC128,Ambiguity (unknown probability),ce,0.09552473121261185
+RDC128,Ambiguity (unknown probability),bst,0.18812851431525077
+RDC129,Ambiguity (unknown probability),ce,0.32634498249231325
+RDC129,Ambiguity (unknown probability),bst,-0.1070868491795226
+RDC130,Ambiguity (unknown probability),ce,0.1785948613002208
+RDC130,Ambiguity (unknown probability),bst,0.043312321977069246
+RDC131,Ambiguity (unknown probability),ce,0.29988516700336326
+RDC131,Ambiguity (unknown probability),bst,-0.011830064126882525
+RDC132,Ambiguity (unknown probability),ce,-0.32773113851591046
+RDC132,Ambiguity (unknown probability),bst,-0.0025293397619348492
+RDC133,Ambiguity (unknown probability),ce,-0.2175721571398252
+RDC133,Ambiguity (unknown probability),bst,-0.011930955929722695
+RDC134,Ambiguity (unknown probability),ce,-0.3097656737885907
+RDC134,Ambiguity (unknown probability),bst,0.1698109904227956
+RDC136,Ambiguity (unknown probability),ce,-0.1268537368931944
+RDC136,Ambiguity (unknown probability),bst,-0.0241098838572934
+RDC137,Ambiguity (unknown probability),ce,0.13442083882743638
+RDC137,Ambiguity (unknown probability),bst,-0.09082383591333021
+RDC138,Ambiguity (unknown probability),ce,-0.2846008058491092
+RDC138,Ambiguity (unknown probability),bst,-0.5231103927132211
+RDC139,Ambiguity (unknown probability),ce,0.04420805858548379
+RDC139,Ambiguity (unknown probability),bst,0.013500023476555842
+RDC141,Ambiguity (unknown probability),ce,-0.10464352725571524
+RDC141,Ambiguity (unknown probability),bst,-0.23786554672281013
+RDC143,Ambiguity (unknown probability),ce,-0.114277956014955
+RDC143,Ambiguity (unknown probability),bst,-0.5906803853698994
+RDC144,Ambiguity (unknown probability),ce,0.17201497893723375
+RDC144,Ambiguity (unknown probability),bst,0.0031851334617077898
+RDC145,Ambiguity (unknown probability),ce,-0.35867838188921075
+RDC145,Ambiguity (unknown probability),bst,-0.15892781447981216
+RDC146,Ambiguity (unknown probability),ce,-0.028511523278958333
+RDC146,Ambiguity (unknown probability),bst,-0.039963554984524294
+RDC147,Ambiguity (unknown probability),ce,-0.42569557094744076
+RDC147,Ambiguity (unknown probability),bst,0.2774615625633687
+RDC152,Ambiguity (unknown probability),ce,0.03129171117604588
+RDC152,Ambiguity (unknown probability),bst,-0.6030272678523864
+RDC153,Ambiguity (unknown probability),ce,0.16706424482334806
+RDC153,Ambiguity (unknown probability),bst,-0.07662587609913706
+RDC154,Ambiguity (unknown probability),ce,0.1907488902325182
+RDC154,Ambiguity (unknown probability),bst,-0.32439850160637157
+RDC156,Ambiguity (unknown probability),ce,0.08877705045802538
+RDC156,Ambiguity (unknown probability),bst,0.19651945873507218
+RDC157,Ambiguity (unknown probability),ce,0.23393133873228308
+RDC157,Ambiguity (unknown probability),bst,0.034824651003309594
+RDC159,Ambiguity (unknown probability),ce,0.13793829422011697
+RDC159,Ambiguity (unknown probability),bst,0.14607978093273247
+RDC161,Ambiguity (unknown probability),ce,-0.2148383405449375
+RDC161,Ambiguity (unknown probability),bst,-0.4098671661961996
+RDC164,Ambiguity (unknown probability),ce,-0.17530728384144265
+RDC164,Ambiguity (unknown probability),bst,-0.02673622455780836
+RDC165,Ambiguity (unknown probability),ce,0.1054865639970096
+RDC165,Ambiguity (unknown probability),bst,-0.1496847770618005
+RDC167,Ambiguity (unknown probability),ce,-0.17477635263432872
+RDC167,Ambiguity (unknown probability),bst,-0.09188346789460229
+RDC171,Ambiguity (unknown probability),ce,-0.4097768840409236
+RDC171,Ambiguity (unknown probability),bst,-0.1266570209310625
+RDC172,Ambiguity (unknown probability),ce,-0.13738424489353526
+RDC172,Ambiguity (unknown probability),bst,0.39382110505513573
+RDC174,Ambiguity (unknown probability),ce,0.12196136224925662
+RDC174,Ambiguity (unknown probability),bst,0.20973001826994572
+RDC175,Ambiguity (unknown probability),ce,0.1734301531724011
+RDC175,Ambiguity (unknown probability),bst,-0.062262336777176054
+RDC176,Ambiguity (unknown probability),ce,0.14588941370576622
+RDC176,Ambiguity (unknown probability),bst,0.46825672479563396
+RDC177,Ambiguity (unknown probability),ce,0.37241147942682307
+RDC177,Ambiguity (unknown probability),bst,-0.017481287863799138
+RDC178,Ambiguity (unknown probability),ce,0.03898587259221024
+RDC178,Ambiguity (unknown probability),bst,0.0419639105385494
+RDC180,Ambiguity (unknown probability),ce,-0.1255420412114855
+RDC180,Ambiguity (unknown probability),bst,0.14010338535858471
+RDC183,Ambiguity (unknown probability),ce,0.22113264061731353
+RDC183,Ambiguity (unknown probability),bst,0.1896333119600021
+RDC184,Ambiguity (unknown probability),ce,-0.01080676534894363
+RDC184,Ambiguity (unknown probability),bst,0.5416854935646404
+RDC186,Ambiguity (unknown probability),ce,-0.5465097474606782
+RDC186,Ambiguity (unknown probability),bst,-0.22975684956753228
+RDC189,Ambiguity (unknown probability),ce,-0.0011580714409169758
+RDC189,Ambiguity (unknown probability),bst,0.056876374981741674
+RDC190,Ambiguity (unknown probability),ce,-0.1873377622840662
+RDC190,Ambiguity (unknown probability),bst,0.13409504476518327
+RDC192,Ambiguity (unknown probability),ce,0.045635078790904574
+RDC192,Ambiguity (unknown probability),bst,-0.19203344045584467
+RDC193,Ambiguity (unknown probability),ce,0.04831968166001164
+RDC193,Ambiguity (unknown probability),bst,-0.0054161770755467116
+RDC195,Ambiguity (unknown probability),ce,0.0422969672749943
+RDC195,Ambiguity (unknown probability),bst,0.03355589303917167
+RDC196,Ambiguity (unknown probability),ce,0.23776118217598968
+RDC196,Ambiguity (unknown probability),bst,-0.21992784634497353
+RDC198,Ambiguity (unknown probability),ce,-0.36898093101690893
+RDC198,Ambiguity (unknown probability),bst,-0.1694639330028209
+RDC200,Ambiguity (unknown probability),ce,0.11203094730354592
+RDC200,Ambiguity (unknown probability),bst,0.19551099220476487
+RDC202,Ambiguity (unknown probability),ce,-0.037701820084413556
+RDC202,Ambiguity (unknown probability),bst,0.02783786299073555
+RDC203,Ambiguity (unknown probability),ce,-0.0922441100621652
+RDC203,Ambiguity (unknown probability),bst,0.19736534763149774
+RDC204,Ambiguity (unknown probability),ce,0.027129628316169403
+RDC204,Ambiguity (unknown probability),bst,-0.2959496470160811
+RDC207,Ambiguity (unknown probability),ce,-0.1986075398751438
+RDC207,Ambiguity (unknown probability),bst,-0.24363919323832914
+RDC208,Ambiguity (unknown probability),ce,-0.42055132678672674
+RDC208,Ambiguity (unknown probability),bst,-0.43532559591491093
+RDC209,Ambiguity (unknown probability),ce,0.14191680641101986
+RDC209,Ambiguity (unknown probability),bst,0.4519798748731156
+RDC210,Ambiguity (unknown probability),ce,0.030097069770246555
+RDC210,Ambiguity (unknown probability),bst,0.29860328131306674
+RDC211,Ambiguity (unknown probability),ce,-0.03574921129781519
+RDC211,Ambiguity (unknown probability),bst,0.002329007134271343
+RDC212,Ambiguity (unknown probability),ce,-0.05930548683555894
+RDC212,Ambiguity (unknown probability),bst,-0.17878757104239587
+RDC213,Ambiguity (unknown probability),ce,-0.13084940431893793
+RDC213,Ambiguity (unknown probability),bst,0.5024580244293037
+RDC214,Ambiguity (unknown probability),ce,-0.12611974282571495
+RDC214,Ambiguity (unknown probability),bst,0.13436238914386187
+RDC216,Ambiguity (unknown probability),ce,0.2778710720233969
+RDC216,Ambiguity (unknown probability),bst,0.423687385354238
+RDC217,Ambiguity (unknown probability),ce,0.06840327227234055
+RDC217,Ambiguity (unknown probability),bst,-0.26979630243871094
+RDC220,Ambiguity (unknown probability),ce,0.11316096340668658
+RDC220,Ambiguity (unknown probability),bst,0.24430628581861225
+RDC221,Ambiguity (unknown probability),ce,-0.2673658323408958
+RDC221,Ambiguity (unknown probability),bst,0.08530779754889488
+RDC222,Ambiguity (unknown probability),ce,0.08107418494969858
+RDC222,Ambiguity (unknown probability),bst,0.47900606629990533
+RDC225,Ambiguity (unknown probability),ce,-0.09517644496422699
+RDC225,Ambiguity (unknown probability),bst,0.05368707248091457
+RDC226,Ambiguity (unknown probability),ce,-0.02051180715062442
+RDC226,Ambiguity (unknown probability),bst,-0.16752471558619453
+RDC227,Ambiguity (unknown probability),ce,-0.09537629494006264
+RDC227,Ambiguity (unknown probability),bst,-0.17767946936072085
+RDC228,Ambiguity (unknown probability),ce,-0.34465930740948475
+RDC228,Ambiguity (unknown probability),bst,-0.1738062831772544
+RDC229,Ambiguity (unknown probability),ce,-0.11114720618506768
+RDC229,Ambiguity (unknown probability),bst,0.3422315685916039
+RDC230,Ambiguity (unknown probability),ce,0.19153003922162792
+RDC230,Ambiguity (unknown probability),bst,-0.30085859703804124
+RDC231,Ambiguity (unknown probability),ce,-0.5086061447131912
+RDC231,Ambiguity (unknown probability),bst,0.26286196586271293
+RDC232,Ambiguity (unknown probability),ce,0.15940108387206617
+RDC232,Ambiguity (unknown probability),bst,-0.15394341130496766
+RDC233,Ambiguity (unknown probability),ce,-0.07942856052815431
+RDC233,Ambiguity (unknown probability),bst,-0.24602456734189493
+RDC234,Ambiguity (unknown probability),ce,-0.3724587068933278
+RDC234,Ambiguity (unknown probability),bst,-0.19319579470981166
+RDC235,Ambiguity (unknown probability),ce,-0.020531851731009236
+RDC235,Ambiguity (unknown probability),bst,0.060639863189793586
+RDC236,Ambiguity (unknown probability),ce,0.4245519905890003
+RDC236,Ambiguity (unknown probability),bst,0.05303982877107366
+RDC237,Ambiguity (unknown probability),ce,0.2156442740157471
+RDC237,Ambiguity (unknown probability),bst,0.062132300830260896
+RDC238,Ambiguity (unknown probability),ce,0.18705263185223792
+RDC238,Ambiguity (unknown probability),bst,0.3411079780465838
+RDC243,Ambiguity (unknown probability),ce,0.1234081282496538
+RDC243,Ambiguity (unknown probability),bst,-0.021887511275505728
+RDC244,Ambiguity (unknown probability),ce,-0.1854454115995944
+RDC244,Ambiguity (unknown probability),bst,-0.05335440713749395
+RDC246,Ambiguity (unknown probability),ce,-0.4229385503249279
+RDC246,Ambiguity (unknown probability),bst,-0.06522135910598766
+RDC247,Ambiguity (unknown probability),ce,-0.06750337923970769
+RDC247,Ambiguity (unknown probability),bst,0.24165735346733105
+RDC248,Ambiguity (unknown probability),ce,0.07301871916262918
+RDC248,Ambiguity (unknown probability),bst,0.24173529734662327
+RDC249,Ambiguity (unknown probability),ce,-0.3053601774285255
+RDC249,Ambiguity (unknown probability),bst,-0.10378523325500894
+RDC250,Ambiguity (unknown probability),ce,0.17920703305675537
+RDC250,Ambiguity (unknown probability),bst,0.22034038244907825
+RDC259,Ambiguity (unknown probability),ce,-0.0012907278188338987
+RDC259,Ambiguity (unknown probability),bst,-0.020015110937520526
+RDC261,Ambiguity (unknown probability),ce,-0.12531331276888638
+RDC261,Ambiguity (unknown probability),bst,-0.3622136770610706
+RDC263,Ambiguity (unknown probability),ce,-0.03954004076524403
+RDC263,Ambiguity (unknown probability),bst,0.013256589435064026

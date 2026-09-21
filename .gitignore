@@ -1,0 +1,31 @@
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+.venv/
+venv/
+*.egg-info/
+
+# Data (raw/derived neuroimaging data is not tracked here — see data/README.md)
+data/raw/
+data/derived/
+*.nii
+*.nii.gz
+
+# ...except the small ROI/template/t-map files intentionally bundled for figure notebooks
+!data/figure2/*.nii
+!data/figure2/*.nii.gz
+!data/suppbrainfigs/*.nii.gz
+
+# Editor / IDE
+.vscode/
+.idea/
+
+# Environment
+*.env

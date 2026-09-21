@@ -1,0 +1,23 @@
+name: mdart-analyses
+channels:
+  - conda-forge
+dependencies:
+  # Versions pinned to what every script and notebook in this repository was
+  # verified to run against, cell-by-cell, while preparing this repository.
+  - python=3.11
+  - numpy=1.26.4
+  - pandas=2.2.1
+  - nibabel=5.2.1
+  - scipy=1.13.0
+  - statsmodels=0.14.4
+  - matplotlib=3.8.3
+  - seaborn=0.13.2
+  - xlrd=2.0.2  # reads legacy .xls files (Figure4_and_SuppFig7(NHP).ipynb)
+  # Needed to open/run the notebooks in figure_notebooks/
+  - jupyterlab
+  - ipykernel=6.19.4
+  - nbconvert=7.2.7
+  - pip
+  - pip:
+      - nltools==0.5.1
+      - nilearn==0.10.3
