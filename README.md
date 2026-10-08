@@ -14,11 +14,11 @@ locomotion.
 
 - `scripts/` — analysis scripts, organized by pipeline stage
 - `figure_notebooks/` — one notebook per figure/table, reproducing the reported results from
-  intermediate outputs
+  intermediate outputs. Run them from inside `figure_notebooks/`; figures are saved to
+  `outputs/figures/` (created automatically, not tracked by git)
 - `data/` — small, figure-specific input files bundled so each notebook runs standalone
   (one subfolder per figure; see [`data/README.md`](data/README.md) for what each file is and
   where it originally came from in the pipeline)
-- `docs/` — supporting documentation (preprocessing notes, data availability, etc.)
 
 ## Analysis pipeline
 

@@ -23,6 +23,9 @@ data/derived/
 !data/figure2/*.nii.gz
 !data/suppbrainfigs/*.nii.gz
 
+# Figures written by figure_notebooks/ (regenerated on each run)
+outputs/
+
 # Editor / IDE
 .vscode/
 .idea/
